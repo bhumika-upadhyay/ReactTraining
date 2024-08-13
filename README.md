@@ -1,1 +1,1 @@
-# ReactTraining
+# frontend development training
